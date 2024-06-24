@@ -20,6 +20,7 @@ public class ContaTerminal {
         double saldo = scanner.nextDouble();
 
 
+        // Imprimindo os dados obtidos pelo usuário
         System.out.println("Olá " + nomeCliente + " " + sobrenome + 
         ", obrigado por criar sua conta em nosso banco, sua agência é "
          + agencia + ", conta " + numero + " e seu saldo de R$" 
