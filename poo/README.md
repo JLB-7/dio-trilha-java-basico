@@ -6,7 +6,7 @@ Neste respositório você encontrará minha implementação de um desafio de mod
 
 Este desafio tem por objetivo modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
-Com base no vídeo de lançamento do iPhone de 2007 (link https://www.youtube.com/watch?v=9ou608QQRq8), você deve elaborar a diagramação das classes e interfaces utilizando uma ferramenta UML de sua preferência. Em seguida, implemente as classes e interfaces no formato de arquivos `java`.
+Com base no vídeo de lançamento do iPhone de 2007 (link [Lançamento do iPhone](https://www.youtube.com/watch?v=9ou608QQRq8)), você deve elaborar a diagramação das classes e interfaces utilizando uma ferramenta UML de sua preferência. Em seguida, implemente as classes e interfaces no formato de arquivos `java`.
 
 ### Funcionalidades a Modelar
 
